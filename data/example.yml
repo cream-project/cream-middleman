@@ -1,0 +1,9 @@
+- name: data1
+  title: "Data 1"
+  text: "Sup yo?"
+- name: data2
+  title: "Data 2"
+  text: "Sup yo?"
+- name: data3
+  title: "Data 3"
+  text: "Sup yo?"

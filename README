@@ -1,0 +1,34 @@
+# cream
+Another web framework.
+It tries to be modular, extendable and keep things simple.
+
+# cream-scss
+
+Collection of SCSS(link) files. You can use them in any way you like, but they are made with the cream(link) environment in mind.
+
+They follow a modular approach, inspired by patternlabs atomic design(link).
+
+The documentation format can be used with hologram(link), to automatically generate a styleguide.
+
+## Directories
+
+### reset
+CSS Reset, based on normalize.css(link).
+
+### settings
+Common variables, used throughout the project.
+
+### helpers
+Common helper mixins and extends.
+
+### elements
+HTML level elements.
+
+### components
+Basic building blocks.
+
+### modules
+Complex building blocks.
+
+### pages
+Page templates.
