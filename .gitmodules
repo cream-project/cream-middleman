@@ -1,0 +1,9 @@
+[submodule "source/assets/js"]
+	path = source/assets/js
+	url = https://github.com/cream-project/cream-js.git
+[submodule "source/assets/css"]
+	path = source/assets/css
+	url = https://github.com/cream-project/cream-scss.git
+[submodule "source/layouts"]
+	path = source/layouts
+	url = https://github.com/cream-project/cream-slim.git
