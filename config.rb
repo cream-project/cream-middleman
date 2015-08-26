@@ -1,11 +1,14 @@
 require "slim"
 
 # Assets
-set :css_dir, "assets/stylesheets"
+set :css_dir, "assets/css"
 set :fonts_dir, "assets/fonts"
 set :images_dir, "assets/images"
-set :js_dir, "assets/javascripts"
+set :js_dir, "assets/js"
 set :videos_dir, "assets/videos"
+
+# Partials
+set :partials_dir, "layouts/partials"
 
 ## Generate pages from data example
 #data.products.each do |category|
