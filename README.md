@@ -10,4 +10,4 @@ It uses the following submodules:
 - [cream-slim](https://github.com/cream-project/cream-slim)
 
 ### License
-Licensed under the [MIT license](https://github.com/cream-project/cream-js/blob/master/LICENSE).
+Licensed under the [MIT license](https://github.com/cream-project/cream-middleman/blob/master/LICENSE).
